@@ -7,3 +7,16 @@ enter “wa <CONTACT NAME>“, select the contact, and then press ENTER to send 
 
 ## Important note
   Make sure that the number in your contact has a correct country calling code.
+
+## Usage
+  In Alfred, type `m`, your contact (query) in order to open a WhatsApp to 
+  
+  ```
+  wa <CONTACT NAME>
+  ```
+  and then press TAB to confirm.
+  
+ ## Demo
+  ![demo](demo_wa_tool.gif)
+  
+  
